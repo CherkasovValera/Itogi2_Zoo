@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" modified="2023-06-01T20:17:53.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="uuDMvWxdhBDeWKIEdM24" version="21.3.6" type="device">
+  <diagram name="Страница 1" id="PlbFvzO_1n9IRxfXmLbC">
+    <mxGraphModel dx="933" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-1" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Animals&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-2" target="eFQygkQvXBA1QBfQwdJY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-2" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;homeAnimals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-6" target="eFQygkQvXBA1QBfQwdJY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-6" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;packedAnimals&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.113;entryY=1.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-10" target="eFQygkQvXBA1QBfQwdJY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="316" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="316" />
+              <mxPoint x="177" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-10" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Cats&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.395;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-11" target="eFQygkQvXBA1QBfQwdJY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-11" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Dogs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.929;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-12" target="eFQygkQvXBA1QBfQwdJY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="315" />
+              <mxPoint x="299" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-12" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Hamsters&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.206;entryY=1.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-13" target="eFQygkQvXBA1QBfQwdJY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="320" />
+              <mxPoint x="631" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-13" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Horses&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=1.079;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-14" target="eFQygkQvXBA1QBfQwdJY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-14" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Camels&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFQygkQvXBA1QBfQwdJY-15" target="eFQygkQvXBA1QBfQwdJY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFQygkQvXBA1QBfQwdJY-15" value="&lt;div&gt;Class&lt;/div&gt;&lt;div&gt;Donkeys&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
